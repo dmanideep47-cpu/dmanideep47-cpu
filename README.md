@@ -27,6 +27,8 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
 
 > My focus is to turn what I learn into software that can be explained, tested, and improved.
 
+<div align="center"><img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider" /></div>
+
 ## Selected Projects
 
 <table>
@@ -60,6 +62,8 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
   </tr>
 </table>
 
+<div align="center"><img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider" /></div>
+
 ## Tools & Technologies
 
 <div align="center">
@@ -76,6 +80,8 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
 
 *The list reflects my current learning and project work, not a claim of expert-level proficiency in every tool.*
 
+<div align="center"><img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider" /></div>
+
 ## GitHub Activity
 
 <sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only.</sub>
@@ -89,6 +95,13 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="72%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmanideep47-cpu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider" /></div>
 
 ## Contribution Snake
 

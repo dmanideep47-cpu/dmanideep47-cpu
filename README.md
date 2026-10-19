@@ -23,8 +23,6 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated coding divider" />
-
 <a href="https://github.com/dmanideep47-cpu?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
@@ -43,16 +41,12 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
 
 ## 🧠 About Me
 
-<img align="right" alt="Developer sitting and coding animation" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 ```text
 AI/ML Engineer in progress
 Backend Developer with Java + Spring Boot
 Data enthusiast with PostgreSQL + SQL
 Future Agentic AI Engineer
 ```
-
-<br clear="right"/>
 
 I’m currently learning and building across three connected areas:
 
@@ -160,18 +154,18 @@ Production AI Systems
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [EduResolve](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
+### 🎓 EduResolve
 
 **AI-powered academic doubt-resolution platform**
 
-A two-tier academic support workflow: AI answers are grounded in indexed curriculum material, while complex or unresolved doubts can be escalated to faculty. The repository documents a React/TypeScript frontend, Node.js/Express backend, and MongoDB configuration.
+EduResolve helps students get grounded answers from curriculum material using retrieval-augmented generation. Questions that require human judgment can be escalated to faculty.
 
 **Core areas:**  
-`RAG` · `LLM Integration` · `Curriculum Grounding` · `Role-Based Access` · `Faculty Escalation`
+`Agentic AI` · `RAG` · `LLM Integration` · `Retrieval Quality` · `Academic Workflows`
 
-**Status:** `Active development` · **Repository currently private**
+**Status:** `In Development`
 
-[🔗 Open EduResolve Repository](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
+<!-- Add public repository link when ready -->
 
 </td>
 <td width="50%" valign="top">
@@ -195,18 +189,18 @@ An intelligent learning workspace that uses retrieval-augmented generation to an
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [Protein.AI](https://github.com/dmanideep47-cpu/Protein-AI)
+### ☕ Study Notes API
 
-**Protein structure explorer and nutrition-estimate prototype**
+**Secure backend for intelligent note management**
 
-A lightweight web prototype that looks up protein-structure metadata using a PDB entry ID and displays related structure imagery. It also includes a simple food-protein estimate for educational exploration.
+A Spring Boot REST API for creating, organizing, searching, and managing study notes, with PostgreSQL persistence and Docker-based deployment.
 
 **Core areas:**  
-`HTML` · `CSS` · `JavaScript` · `RCSB PDB API` · `Scientific Data UI`
+`Java` · `Spring Boot` · `REST API` · `PostgreSQL` · `Docker`
 
-**Status:** `Prototype` · **Repository currently private**
+**Status:** `Planned`
 
-[🔗 Open Protein.AI Repository](https://github.com/dmanideep47-cpu/Protein-AI)
+<!-- Add repository link when public -->
 
 </td>
 <td width="50%" valign="top">
@@ -228,7 +222,7 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 </tr>
 </table>
 
-> Some projects are still private during development. The links above point to their repositories, but visitors must have access to open private code. I’ll mark projects public only when their code and documentation are ready for that.
+> I’m currently converting my learning into complete, public, well-documented repositories. Private and unfinished work is intentionally not presented as completed work.
 
 ---
 
@@ -320,8 +314,4 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated neon code divider" />
-</div>
+<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Neon divider" />

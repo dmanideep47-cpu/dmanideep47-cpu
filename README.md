@@ -23,7 +23,7 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-7d8c5d94-5589-4c5f-8b3e-0a4f63e7a3a2.gif" width="100%" alt="Animated coding divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated coding divider" />
 
 <a href="https://github.com/dmanideep47-cpu?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />

@@ -1,12 +1,22 @@
 name: Generate contribution snake
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - "README.md"
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -19,7 +29,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish to output branch
+      - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

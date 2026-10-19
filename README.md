@@ -1,7 +1,7 @@
 <!-- Premium animated profile header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:06B6D4&height=220&section=header&text=MANIDEEP&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=AI%20%2B%20DATA%20ENGINEERING%20%7C%20BACKEND%20SYSTEMS&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Manideep animated profile banner" />
+<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/profile-banner.svg" width="100%" alt="Custom animated Manideep developer banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=CSE-DS+Student+%40+Jain+University;Java+%7C+Spring+Boot+%7C+SQL;Exploring+LLMs%2C+RAG+%26+Data+Systems;Building+projects.+Learning+in+public." alt="Animated typing introduction" />
@@ -9,6 +9,7 @@
 
 <p>
   <a href="https://github.com/dmanideep47-cpu?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/dmanideep47-cpu/dmanideep47-cpu/actions/workflows/snake.yml"><img src="https://github.com/dmanideep47-cpu/dmanideep47-cpu/actions/workflows/snake.yml/badge.svg" alt="Contribution snake workflow status" /></a>
   <img src="https://komarev.com/ghpvc/?username=dmanideep47-cpu&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -24,7 +25,7 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
 - 🤖 **AI path:** LLM applications, RAG, embeddings and retrieval evaluation
 - 🎯 **Long-term direction:** AI + Data Engineering, progressing toward Agentic AI systems
 
-> I care about making projects understandable and reproducible, not just making the README look impressive.
+> My focus is to turn what I learn into software that can be explained, tested, and improved.
 
 ## Selected Projects
 
@@ -76,6 +77,9 @@ I'm a CSE–Data Science student interested in the engineering behind useful AI 
 *The list reflects my current learning and project work, not a claim of expert-level proficiency in every tool.*
 
 ## GitHub Activity
+
+<sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only.</sub>
+
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Public GitHub statistics" />

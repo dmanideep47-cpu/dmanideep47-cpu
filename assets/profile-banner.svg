@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Manideep | Backend Engineering and Applied AI</title>
+  <desc id="desc">An animated dark navy and cyan banner with a terminal-inspired grid and glowing data paths.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#171447"/>
+      <stop offset="100%" stop-color="#06394a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="990" cy="135" r="250" fill="url(#glow)">
+    <animate attributeName="r" values="210;270;210" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M650 40H820L860 80H1100"><animate attributeName="stroke-dasharray" values="0 700;220 700;0 700" dur="7s" repeatCount="indefinite"/></path>
+    <path d="M700 310H850L900 260H1150"><animate attributeName="stroke-dasharray" values="0 700;260 700;0 700" dur="8s" repeatCount="indefinite"/></path>
+    <path d="M810 175H920L960 215H1120"><animate attributeName="stroke-dasharray" values="0 700;200 700;0 700" dur="6s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#67e8f9" filter="url(#softGlow)">
+    <circle cx="860" cy="80" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="260" r="4"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="215" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(830 100)" opacity=".88">
+    <rect width="285" height="155" rx="14" fill="#0b1020" fill-opacity=".76" stroke="#67e8f9" stroke-opacity=".4"/>
+    <circle cx="20" cy="19" r="4" fill="#fb7185"/><circle cx="34" cy="19" r="4" fill="#fbbf24"/><circle cx="48" cy="19" r="4" fill="#34d399"/>
+    <path d="M18 42H267" stroke="#64748b" stroke-opacity=".45"/>
+    <g font-family="monospace" font-size="13" fill="#a5f3fc">
+      <text x="20" y="67">$ build --profile</text>
+      <text x="20" y="91" fill="#c4b5fd">Java + Spring Boot</text>
+      <text x="20" y="115" fill="#6ee7b7">RAG + Data Systems</text>
+      <text x="20" y="139" fill="#94a3b8">status: learning / shipping</text>
+    </g>
+    <rect x="155" y="55" width="8" height="15" fill="#67e8f9">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f8fafc">
+    <text x="70" y="93" font-size="16" letter-spacing="5" fill="#67e8f9">CSE • DATA SCIENCE</text>
+    <text x="66" y="163" font-size="66" font-weight="800" letter-spacing="-2">MANIDEEP</text>
+    <text x="70" y="204" font-size="21" fill="#cbd5e1">Backend Engineering  /  Applied AI  /  Data Systems</text>
+    <text x="70" y="252" font-family="monospace" font-size="15" fill="#a5b4fc">Java · Spring Boot · SQL · Python · RAG</text>
+  </g>
+  <path d="M70 285H610" stroke="#67e8f9" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M70 285H170" stroke="#67e8f9" stroke-width="3">
+    <animate attributeName="x2" values="120;610;120" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <text x="70" y="321" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#94a3b8">LEARN DEEPLY. BUILD DELIBERATELY.</text>
+</svg>

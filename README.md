@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     D MANIDEEP — AI/ML & BACKEND ENGINEER
+     D MANIDEEP — AI/ML & BACKEND DEVELOPER
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -50,7 +50,7 @@ Future Agentic AI Engineer
 
 I’m currently learning and building across three connected areas:
 
-- **AI/ML:** Python, data analysis, machine learning, deep learning, LLMs, RAG, and agents  
+- **AI/ML:** Python, NumPy, pandas, scikit-learn, PyTorch, LLMs, RAG, and agents  
 - **Backend:** Java, Spring Boot, REST APIs, authentication, PostgreSQL, Docker  
 - **Data Engineering:** SQL, database design, data pipelines, embeddings, and vector search  
 
@@ -154,34 +154,34 @@ Production AI Systems
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Quasor CodeLab](https://github.com/dmanideep47-cpu/quasar-ai)
+### 🎓 EduResolve
 
-**AI-assisted coding and learning workspace**
+**AI-powered academic doubt-resolution platform**
 
-An intelligent learning platform that uses retrieval-augmented generation to answer questions from Python learning material with grounded, source-aware responses.
+EduResolve helps students get grounded answers from curriculum material using retrieval-augmented generation. Questions that require human judgment can be escalated to faculty.
 
 **Core areas:**  
-`RAG` · `LLM Integration` · `pgvector` · `Next.js` · `TypeScript`
+`Agentic AI` · `RAG` · `LLM Integration` · `Retrieval Quality` · `Academic Workflows`
 
-**Status:** `In Progress`
+**Status:** `In Development`
 
-[🔗 View Repository](https://github.com/dmanideep47-cpu/quasar-ai)
+<!-- Add public repository link when ready -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 AI Study Assistant
+### ⚡ [Quasor CodeLab](https://github.com/dmanideep47-cpu/quasar-ai)
 
-**RAG-powered intelligent study platform**
+**AI-assisted coding and learning workspace**
 
-A platform that helps students understand their notes through grounded question answering, automatic flashcards, quizzes, and personalized study plans.
+An intelligent learning workspace that uses retrieval-augmented generation to answer questions from Python learning material with grounded, source-aware responses.
 
 **Core areas:**  
-`RAG` · `pgvector` · `Tool Calling` · `Memory` · `Spring Boot`
+`RAG` · `LLM Integration` · `PostgreSQL/pgvector` · `Next.js` · `TypeScript`
 
-**Status:** `Planned`
+**Status:** `In Progress`
 
-<!-- Add repository link when public -->
+[🔗 View Repository](https://github.com/dmanideep47-cpu/quasar-ai)
 
 </td>
 </tr>
@@ -205,16 +205,16 @@ A Spring Boot REST API for creating, organizing, searching, and managing study n
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Java DSA Practice
+### 🤖 AI Note Summarizer
 
-**Data Structures & Algorithms practice**
+**LLM-powered study assistant service**
 
-A structured Java repository for strengthening problem-solving through arrays, strings, searching, sorting, linked lists, stacks, queues, trees, and algorithmic patterns.
+A Python FastAPI service that converts study notes into concise summaries, key points, and flashcards using LLM APIs and structured output.
 
 **Core areas:**  
-`Java` · `DSA` · `Problem Solving` · `Algorithm Patterns`
+`Python` · `FastAPI` · `LLM APIs` · `Prompt Engineering` · `PostgreSQL`
 
-**Status:** `Ongoing`
+**Status:** `Planned`
 
 <!-- Add repository link when public -->
 

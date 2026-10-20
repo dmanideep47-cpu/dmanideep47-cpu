@@ -268,17 +268,19 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+<a href="https://github.com/dmanideep47-cpu">
+  <img src="https://img.shields.io/badge/View-Official%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View official GitHub profile and contribution calendar" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
+<br/><br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="72%" />
+<a href="https://github.com/dmanideep47-cpu?tab=overview">
+  **View my contribution calendar, activity, and repositories on GitHub**
+</a>
 
 </div>
 
-<sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only.</sub>
+<sub>Contribution counts and streaks are shown on GitHub's own profile calendar. Third-party stats widgets can be delayed or inconsistent, so this profile links directly to the official source instead of displaying potentially misleading numbers.</sub>
 
 ---
 

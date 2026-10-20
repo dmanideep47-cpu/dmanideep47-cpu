@@ -33,10 +33,6 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
   <img src="https://img.shields.io/badge/Contact-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email dmanideep47@gmail.com" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
 </div>
 
 ---
@@ -160,34 +156,34 @@ Production AI Systems
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [EduResolve](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
+### 🏗️ [BuildSync](https://github.com/dmanideep47-cpu/build-sync-infra-reality)
 
-**AI-powered academic doubt-resolution platform**
+**AI-assisted infrastructure progress tracking**
 
-A two-tier academic support workflow: AI answers are grounded in indexed curriculum material, while complex or unresolved doubts can be escalated to faculty. The repository documents a React/TypeScript frontend, Node.js/Express backend, and MongoDB configuration.
+A project concept for connecting site evidence and project documents to construction schedule activities, helping teams understand actual progress and schedule drift.
 
 **Core areas:**  
-`RAG` · `LLM Integration` · `Curriculum Grounding` · `Role-Based Access` · `Faculty Escalation`
+`Infrastructure Data` · `Document Intelligence` · `Progress Tracking` · `RAG/LLM Concepts`
 
-**Status:** `Active development` · **Repository currently private**
+**Status:** `In Development`
 
-[🔗 Open EduResolve Repository](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
+[🔗 Explore BuildSync](https://github.com/dmanideep47-cpu/build-sync-infra-reality)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Quasor CodeLab](https://github.com/dmanideep47-cpu/quasar-ai)
+### 🎓 [EduResolve](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
 
-**AI-assisted coding and learning workspace**
+**AI-powered academic doubt-resolution platform**
 
-An intelligent learning workspace that uses retrieval-augmented generation to answer questions from Python learning material with grounded, source-aware responses.
+A two-tier academic support workflow: AI answers are grounded in indexed curriculum material, while complex or unresolved doubts can be escalated to faculty. The project combines a web frontend, backend APIs, and retrieval-based academic support.
 
 **Core areas:**  
-`RAG` · `LLM Integration` · `PostgreSQL/pgvector` · `Next.js` · `TypeScript`
+`RAG` · `LLM Integration` · `Curriculum Grounding` · `Faculty Escalation`
 
-**Status:** `In Progress`
+**Status:** `Active development`
 
-[🔗 View Repository](https://github.com/dmanideep47-cpu/quasar-ai)
+[🔗 Explore EduResolve](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
 
 </td>
 </tr>
@@ -204,31 +200,31 @@ A lightweight web prototype that looks up protein-structure metadata using a PDB
 **Core areas:**  
 `HTML` · `CSS` · `JavaScript` · `RCSB PDB API` · `Scientific Data UI`
 
-**Status:** `Prototype` · **Repository currently private**
+**Status:** `Prototype`
 
-[🔗 Open Protein.AI Repository](https://github.com/dmanideep47-cpu/Protein-AI)
+[🔗 Explore Protein.AI](https://github.com/dmanideep47-cpu/Protein-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Note Summarizer
+### 🧩 [Daily Dev Log](https://github.com/dmanideep47-cpu/daily-dev-log)
 
-**LLM-powered study assistant service**
+**A public record of consistent practice**
 
-A Python FastAPI service that converts study notes into concise summaries, key points, and flashcards using LLM APIs and structured output.
+A small repository for documenting daily learning and development work, with commits that make progress visible over time.
 
 **Core areas:**  
-`Python` · `FastAPI` · `LLM APIs` · `Prompt Engineering` · `PostgreSQL`
+`Git` · `GitHub` · `Documentation` · `Consistency`
 
-**Status:** `Planned`
+**Status:** `Active`
 
-<!-- Add repository link when public -->
+[🔗 View Daily Dev Log](https://github.com/dmanideep47-cpu/daily-dev-log)
 
 </td>
 </tr>
 </table>
 
-> Some projects are still private during development. The links above point to their repositories, but visitors must have access to open private code. I’ll mark projects public only when their code and documentation are ready for that.
+> Project descriptions reflect the intended scope and current development stage. A strong portfolio is built on working demos, clear READMEs, tests, and honest status labels, not just a long list of technologies.
 
 ---
 
@@ -278,7 +274,10 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 
 </div>
 
-<sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only.</sub>
+<sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only. For the official contribution calendar, visit <a href="https://github.com/dmanideep47-cpu">my GitHub profile</a>.</sub>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -296,10 +295,6 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 ## 📫 Let’s Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 <a href="mailto:dmanideep47@gmail.com">
   <img src="https://img.shields.io/badge/Email-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email dmanideep47@gmail.com" />

@@ -1,277 +1,220 @@
 <!-- ═══════════════════════════════════════════════════════════
-D MANIDEEP — AI/ML & BACKEND DEVELOPER
-═══════════════════════════════════════════════════════════ -->
+     D MANIDEEP — AI/ML & BACKEND DEVELOPER
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/profile-banner.svg"
+<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/profile-banner.svg" width="100%" alt="Manideep — AI/ML and Backend Developer banner" />
 
-Hi, I’m D Manideep 👋
-AI/ML & Backend Developer
-Building intelligent systems with Java, Python, and Data
-I’m a CSE–Data Science undergraduate passionate about building AI-powered products that are useful, reliable, and grounded in real data.
+# Hi, I'm D. Manideep 👋
 
-My focus is to combine Machine Learning, LLMs, RAG, and backend engineering to create systems that do more than generate text — systems that can retrieve knowledge, use tools, remember context, and solve real problems.
+### AI/ML & Backend Developer in Progress
+**Java · Spring Boot · Python · RAG · PostgreSQL**
 
+Building useful software by combining backend engineering, data, and applied AI.
 
-
-<a href="https://readme-typing-svg.demolab.com">
- alt="Typing SVG" />
-</a>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+<br/>
 
 <a href="https://github.com/dmanideep47-cpu?tab=repositories">
- alt="Repositories" />
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+<a href="mailto:dmanideep47@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Manideep" />
 </a>
 
-<a href="mailto:dmanideep47@gmail.com">
-<img src="https://img.shields.io/badge/Contact-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated coding divider" />
 
 </div>
 
-🧠 About Me
-<img align="right" alt="Developer sitting and coding animation" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+---
 
-text
-AI/ML Engineer in progress
-Backend Developer with Java + Spring Boot
-Data enthusiast with PostgreSQL + SQL
-Future Agentic AI Engineer
-<br clear="right"/>
+## 🧠 About Me
 
-I’m currently learning and building across three connected areas:
+I'm a Computer Science and Data Science undergraduate focused on becoming a strong **backend and applied AI engineer**. I like understanding how systems work, building them step by step, and improving them through practice.
 
-AI/ML: Python, NumPy, pandas, scikit-learn, PyTorch, LLMs, RAG, and agents
+- ☕ **Backend:** Java, object-oriented programming, Spring Boot, REST APIs
+- 🐍 **Data & AI:** Python, NumPy, pandas, machine learning fundamentals, LLMs and RAG
+- 🗄️ **Databases:** SQL, PostgreSQL, database design, embeddings and vector search
+- 🧰 **Developer workflow:** Git, GitHub, VS Code and project documentation
 
-Backend: Java, Spring Boot, REST APIs, authentication, PostgreSQL, Docker
+My current priority is to strengthen fundamentals, build complete projects, and earn an internship by demonstrating what I can actually build.
 
-Data Engineering: SQL, database design, data pipelines, embeddings, and vector search
+> **My approach:** learn the fundamentals, build the working version, test it, document it, then improve it.
 
-I believe a strong AI engineer should understand both sides:
+---
 
-text
-How intelligence works
-+
-How software scales
-That is why I’m building skills in Python for AI/ML and Java/Spring Boot for production backend systems.
+## 🚀 What I'm Learning
 
-My goal is to build AI products that are accurate, useful, testable, and safe enough for real users.
-
-🚀 What I’m Building Toward
-I’m working toward becoming an Agentic AI Engineer — someone who can build AI systems that:
-
-text
-Understand a goal
-→ Retrieve relevant knowledge
-→ Plan next steps
-→ Use tools and APIs
-→ Remember context
-→ Validate results
-→ Complete useful tasks
-My learning path:
-
-text
-Python + Data Foundations
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-LLMs + RAG
-        ↓
-AI Agents + LangGraph
-        ↓
-Production AI Systems
-🛠️ Tech Stack
 <div align="center">
 
-👨‍💻 Languages
-Java
-Python
-SQL
-TypeScript
-
-
-
-🤖 AI / ML
-NumPy
-pandas
-scikit-learn
-PyTorch
-LLMs
-RAG
-
-
-
-☕ Backend & Data
-Spring Boot
-Spring
-PostgreSQL
-MySQL
-pgvector
-
-
-
-🧰 Tools & DevOps
-Git
-GitHub
-Docker
-VS Code
-Jupyter
+| Focus | Current direction |
+|---|---|
+| Java & backend | Core Java, OOP, DSA, Spring Boot and REST APIs |
+| Data foundations | SQL, PostgreSQL, NumPy, pandas and data visualization |
+| Applied AI | LLM integration, embeddings, RAG and retrieval quality |
+| Engineering practice | Git, clean repository structure, testing and deployment |
 
 </div>
 
-📌 Featured Projects
-I’m building a portfolio of complete, public, well-documented projects across AI/ML and backend engineering.
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+**Backend & Databases**
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+**Data & AI**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="Large language models" />
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="Retrieval augmented generation" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🏗️ BuildSync
-AI-assisted infrastructure progress tracking
+### 🏗️ [BuildSync](https://github.com/dmanideep47-cpu/build-sync-infra-reality)
 
-A project concept for connecting site evidence and project documents to construction schedule activities, helping teams understand actual progress and schedule drift.
+**Infrastructure progress tracking concept**
 
-Core areas:
-Infrastructure Data · Document Intelligence · Progress Tracking · RAG/LLM Concepts
+Exploring how project documents and site evidence can be connected to construction activities to make real-world progress and schedule drift easier to understand.
 
-Status: In Development
+**Focus:** infrastructure data · document intelligence · progress tracking
 
-🔗 Explore BuildSync
+[View repository →](https://github.com/dmanideep47-cpu/build-sync-infra-reality)
 
 </td>
 <td width="50%" valign="top">
 
-🎓 EduResolve
-AI-powered academic doubt-resolution platform
+### 🎓 [EduResolve](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
 
-A two-tier academic support workflow: AI answers are grounded in indexed curriculum material, while complex or unresolved doubts can be escalated to faculty. The project combines a web frontend, backend APIs, and retrieval-based academic support.
+**AI-assisted academic doubt resolution**
 
-Core areas:
-RAG · LLM Integration · Curriculum Grounding · Faculty Escalation
+A two-tier academic support concept using curriculum-grounded AI answers and escalation for questions that need faculty support.
 
-Status: Active development
+**Focus:** RAG · LLM integration · curriculum grounding
 
-🔗 Explore EduResolve
+[View repository →](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-🧬 Protein.AI
-Protein structure explorer and nutrition-estimate prototype
+### 🧬 [Protein.AI](https://github.com/dmanideep47-cpu/Protein-AI)
 
-A lightweight web prototype that looks up protein-structure metadata using a PDB entry ID and displays related structure imagery. It also includes a simple food-protein estimate for educational exploration.
+**Protein information exploration prototype**
 
-Core areas:
-HTML · CSS · JavaScript · RCSB PDB API · Scientific Data UI
+A web prototype for exploring protein-structure information from a PDB identifier, with a simple nutrition-estimation feature.
 
-Status: Prototype
+**Focus:** JavaScript · scientific data · external APIs
 
-🔗 Explore Protein.AI
+[View repository →](https://github.com/dmanideep47-cpu/Protein-AI)
 
 </td>
 <td width="50%" valign="top">
 
-🧩 Daily Dev Log
-A public record of consistent practice
+### 💻 [Daily Dev Log](https://github.com/dmanideep47-cpu/daily-dev-log)
 
-A small repository for documenting daily learning and development work, with commits that make progress visible over time.
+**A record of daily coding practice**
 
-Core areas:
-Git · GitHub · Documentation · Consistency
+A repository for tracking development work and keeping a visible history of learning and practice.
 
-Status: Active
+**Focus:** Git · GitHub · consistency · documentation
 
-🔗 View Daily Dev Log
+[View repository →](https://github.com/dmanideep47-cpu/daily-dev-log)
 
 </td>
 </tr>
 </table>
 
-Project descriptions reflect the intended scope and current development stage. A strong portfolio is built on working demos, clear READMEs, tests, and honest status labels, not just a long list of technologies.
+---
 
-🧪 AI/ML Learning Path
+## 🎯 Goals
+
+- [ ] Build strong DSA fundamentals in Java
+- [ ] Complete a Spring Boot + PostgreSQL backend project
+- [ ] Build an end-to-end data analysis or machine learning project
+- [ ] Improve RAG quality through retrieval evaluation and source grounding
+- [ ] Deploy projects with clear setup instructions and demos
+- [ ] Earn an internship by demonstrating practical engineering skills
+
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
 
-Stage	Skills	Outcome
-1	Python, NumPy, pandas, Jupyter	Data analysis and manipulation
-2	Statistics, probability, linear algebra	ML mathematical intuition
-3	scikit-learn	Classical ML models and evaluation
-4	PyTorch, CNNs, transfer learning	Deep learning projects
-5	LLM APIs, prompting, embeddings	AI-powered applications
-6	RAG, pgvector, retrieval evaluation	Grounded AI systems
-7	Tools, memory, LangGraph	Agentic AI systems
-8	Docker, APIs, deployment	Production-ready AI products
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages in public repositories" />
 
-🎯 2026–27 Goals
-Solve DSA consistently in Java
+<br/><br/>
 
-Build a complete Spring Boot + PostgreSQL + Docker backend
-
-Build an end-to-end Machine Learning project
-
-Build a Deep Learning project using PyTorch
-
-Build a RAG application using PostgreSQL/pgvector
-
-Build a tool-using AI agent with memory and guardrails
-
-Deploy an AI-powered full-stack application
-
-Maintain clean GitHub repositories with strong documentation
-
-📈 GitHub Activity
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&theme=tokyonight"
-
-
-
-<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true"
+<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%" />
 
 </div>
 
-<sub>Stats are provided by external services and may occasionally be unavailable. Language cards reflect public repositories only. For the official contribution calendar, visit <a href="https://github.com/dmanideep47-cpu">my
+<sub>Third-party statistics may be delayed or unavailable. Check the <a href="https://github.com/dmanideep47-cpu">official GitHub profile</a> for the contribution calendar.</sub>
 
-🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/output/github-contribution-grid-snake-dark.svg"
- />
-<img alt="Animated snake following contribution squares" src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/output/github-contribution-grid-snake.svg"
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake following contribution squares" src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
-📫 Let’s Connect
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
 <a href="mailto:dmanideep47@gmail.com">
-<img src="https://img.shields.io/badge/Email-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-
+  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://github.com/dmanideep47-cpu">
- alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-dmanideep47--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<br/><br/>
+
+### **Learn deeply. Build deliberately. Ship publicly. Improve relentlessly.**
+
+<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg" width="100%" alt="Neon divider" />
+
 </div>
-
-<div align="center">
-
-Learn deeply. Build deliberately. Ship publicly. Improve relentlessly.
-</div>
-
-<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/neon-divider.svg"
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"

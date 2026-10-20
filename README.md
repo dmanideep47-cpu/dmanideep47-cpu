@@ -29,8 +29,8 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:dmanideep47@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email dmanideep47@gmail.com" />
 </a>
 
 <a href="https://www.linkedin.com/in/your-linkedin-username/">
@@ -304,8 +304,8 @@ A Python FastAPI service that converts study notes into concise summaries, key p
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:dmanideep47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dmanideep47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email dmanideep47@gmail.com" />
 </a>
 
 <a href="https://github.com/dmanideep47-cpu">

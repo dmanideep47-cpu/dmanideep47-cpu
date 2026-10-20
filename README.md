@@ -91,6 +91,8 @@ A two-tier academic support concept: answer questions using indexed curriculum m
 
 <sub>🔒 In development · Private repository</sub>
 
+[Repository link →](https://github.com/dmanideep47-cpu/eduresolve-ai-doubt-resolution)
+
 </td>
 <td width="50%" valign="top">
 
@@ -121,6 +123,8 @@ A web prototype for looking up protein structure metadata from a PDB identifier 
 
 <sub>🔒 Prototype · Private repository</sub>
 
+[Repository link →](https://github.com/dmanideep47-cpu/Protein-AI)
+
 </td>
 <td width="50%" valign="top">
 
@@ -133,6 +137,8 @@ Exploring how project documents and site evidence can be linked to construction 
 **Exploring:** document intelligence · infrastructure data · schedule linking
 
 <sub>🔒 In development · Private repository</sub>
+
+[Repository link →](https://github.com/dmanideep47-cpu/build-sync-infra-reality)
 
 </td>
 </tr>

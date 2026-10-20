@@ -29,11 +29,11 @@ My focus is to combine **Machine Learning, LLMs, RAG, and backend engineering** 
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:dmanideep47@gmail.com">
   <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
+<a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -154,7 +154,7 @@ Production AI Systems
 
 ## 📌 Featured Projects
 
-> I’m building a portfolio of complete, public, well-documented projects across AI/ML and backend engineering.
+> I’m building a portfolio of well-documented projects across AI/ML and backend engineering. Some repositories are public, while others are still private during development.
 
 <table>
 <tr>
@@ -300,11 +300,11 @@ A Python FastAPI service that converts study notes into concise summaries, key p
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
+<a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:dmanideep47@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 

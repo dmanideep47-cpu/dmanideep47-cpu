@@ -214,16 +214,30 @@ A planned study assistant that turns notes into summaries, key points, and flash
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&theme=tokyonight" alt="Languages in public repositories" />
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=79C0FF" height="175" alt="GitHub overview: stars, commits, pull requests and issues" />
 
-<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%" />
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&langs_count=4&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" height="175" alt="Most used programming languages in public repositories" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=F78166&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E" width="76%" alt="GitHub contribution streak, current streak and longest streak" />
+
+<br/>
+
+<sub>Stats are provided by third-party services and can occasionally be delayed. Language statistics reflect public repositories; GitHub’s contribution calendar is the source of truth.</sub>
 
 </div>
-
-<sub>These cards use third-party services and may occasionally be unavailable or delayed. Language statistics describe public repositories; GitHub's own contribution calendar is the source of truth.</sub>
 
 ---
 

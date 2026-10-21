@@ -218,12 +218,16 @@ A planned study assistant that turns notes into summaries, key points, and flash
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=79C0FF" height="175" alt="GitHub overview: stars, commits, pull requests and issues" />
+<a href="https://github.com/dmanideep47-cpu">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmanideep47-cpu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=79C0FF&cache_seconds=21600" width="100%" alt="GitHub overview showing stars, commits, pull requests and issues" />
+</a>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&langs_count=4&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" height="175" alt="Most used programming languages in public repositories" />
+<a href="https://github.com/dmanideep47-cpu?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmanideep47-cpu&layout=compact&hide_border=true&langs_count=4&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&cache_seconds=21600" width="100%" alt="Most-used languages across public repositories" />
+</a>
 
 </td>
 </tr>
@@ -231,11 +235,19 @@ A planned study assistant that turns notes into summaries, key points, and flash
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=F78166&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E" width="76%" alt="GitHub contribution streak, current streak and longest streak" />
+<table>
+<tr>
+<td align="center" width="100%">
 
-<br/>
+<a href="https://github.com/dmanideep47-cpu">
+  <img src="https://streak-stats.demolab.com?user=dmanideep47-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=F78166&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="Current GitHub streak, longest streak, and contribution totals" />
+</a>
 
-<sub>Stats are provided by third-party services and can occasionally be delayed. Language statistics reflect public repositories; GitHub’s contribution calendar is the source of truth.</sub>
+</td>
+</tr>
+</table>
+
+<sub>Live profile cards · Statistics refresh through their providers and may be delayed by provider-side caching. Language percentages are based on public repository code; GitHub’s contribution calendar remains the source of truth.</sub>
 
 </div>
 

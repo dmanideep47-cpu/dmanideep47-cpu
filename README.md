@@ -245,6 +245,20 @@ A planned study assistant that turns notes into summaries, key points, and flash
 
 ---
 
+## 🐟 Git Koi
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="Animated koi fish generated from my GitHub coding activity" />
+
+**The languages I code in paint its colours.**
+
+<sub>Updated automatically every day from my public GitHub activity.</sub>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">

@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/profile-banner.svg" width="100%" alt="Animated banner for D. Manideep, backend engineering and applied AI" />
+<img src="https://raw.githubusercontent.com/dmanideep47-cpu/dmanideep47-cpu/main/assets/profile-banner.svg?v=2" width="100%" alt="Animated banner for D. Manideep, backend engineering and applied AI" />
 
 # Hi, I'm D. Manideep 👋
 

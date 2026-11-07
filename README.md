@@ -36,6 +36,8 @@ I’m learning to build reliable software that connects backend engineering, dat
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Developer seated at a desk, coding across multiple monitors" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 I'm a Computer Science and Data Science undergraduate interested in the intersection of **backend development, data engineering, and applied AI**.
 
 - ☕ **Backend:** Java, OOP, Spring Boot, REST APIs
@@ -44,6 +46,10 @@ I'm a Computer Science and Data Science undergraduate interested in the intersec
 - 🧰 **Workflow:** Git, GitHub, project documentation and iterative development
 
 I’m still learning these technologies, and I want my repositories to show that progress honestly: what I built, how it works, what I learned, and what I plan to improve next.
+
+<br clear="right" />
+
+<sub>Coding illustration reference: <a href="https://github.com/akhilesh112606">@akhilesh112606</a>.</sub>
 
 ## 🎯 My Direction
 
